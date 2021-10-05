@@ -1,0 +1,10 @@
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\bin\Debug\Gubo Kruzic Krizic - Tic Tac Toe.exe.config
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\bin\Debug\Gubo Kruzic Krizic - Tic Tac Toe.exe
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\bin\Debug\Gubo Kruzic Krizic - Tic Tac Toe.pdb
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\obj\Debug\Gubo Kruzic Krizic - Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\obj\Debug\Gubo_Kruzic_Krizic___Tic_Tac_Toe.Form1.resources
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\obj\Debug\Gubo_Kruzic_Krizic___Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\obj\Debug\Gubo Kruzic Krizic - Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\obj\Debug\Gubo Kruzic Krizic - Tic Tac Toe.exe
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\obj\Debug\Gubo Kruzic Krizic - Tic Tac Toe.pdb
+C:\Users\Dominik\source\repos\Gubo Kruzic Krizic - Tic Tac Toe\Gubo Kruzic Krizic - Tic Tac Toe\obj\Debug\Gubo_Kruzic_Krizic___Tic_Tac_Toe.Form2.resources
